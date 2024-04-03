@@ -2,6 +2,10 @@
 
 Travel Tracker is a web application built with Express.js and PostgreSQL that allows users to track the countries they have visited.
 
+# Preview
+
+![Preview](public/preview.png)
+
 ## Features
 
 - Add countries you have visited.
